@@ -1,0 +1,4 @@
+Data/Images/Output/person_detections_with_face_attributes.csv filter=lfs diff=lfs merge=lfs -text
+Data/Images/Output/person_detections.csv filter=lfs diff=lfs merge=lfs -text
+Data/Articles/Output/Articles_merged_enriched.csv filter=lfs diff=lfs merge=lfs -text
+Data/Articles/Output/Articles_merged_mentions.csv filter=lfs diff=lfs merge=lfs -text
