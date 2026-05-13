@@ -2,13 +2,4 @@
 /sentiment_finetuned_xlmr_mentions/
 /Data/Images/Plain_Images
 /Data/Images/Output/annotated_images
-
-/Data/Images/Output/person_detections_with_face_attributes.csv
-
-/Data/Images/Output/person_detections.csv
-
-
-/Data/Articles/Output/Articles_merged_enriched.csv
-/Data/Articles/Output/Articles_merged_mentions.csv
-
 /Data to delete
